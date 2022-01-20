@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7e68C808E53F03E349113424F179251873d997cB",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7e68C808E53F03E349113424F179251873d997cB",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "My NFT",
+  "SYMBOL": "MNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mynft-esxquithlx",
+  "SHOW_BACKGROUND": true
+}
